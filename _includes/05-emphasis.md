@@ -1,0 +1,10 @@
+- programming languages
+  - **Java**
+  - *Python*
+  - *C#*
+  - HTML5/CSS3/Javascript
+  - Shell
+  - Docker
+  - VB
+  - C/C++
+- *and more*
