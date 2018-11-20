@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- programming languages
+  - **Java**
+  - *Python*
+  - *C#*
+  - HTML5/CSS3/Javascript
+  - Shell
+  - Docker
+  - VB
+  - C/C++
+- *and more*
