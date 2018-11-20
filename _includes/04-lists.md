@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Sports
+  1. Soccer :soccer:
+  1. Table Tennis
+- Listen to the music :headphones:
+- Reading :book:
+- Programming :computer:
